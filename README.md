@@ -1,5 +1,7 @@
 # my-income-app-1098
 
+![Vue-my-app-scr](https://user-images.githubusercontent.com/44364327/153769588-b59b0d4c-fccb-44aa-bd91-0fefedb8e6e2.jpg)
+
 ## Project setup
 ```
 npm install
