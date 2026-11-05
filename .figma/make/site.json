@@ -1,0 +1,10 @@
+{
+  "description": "A web application for users to manage and preview deployments, with setup checks that help ensure projects are ready to publish.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
